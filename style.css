@@ -52,6 +52,7 @@
 
 .nav-button:hover {
     cursor: pointer;
+    background-color: #2a32ce;
 }
 
 .banner-container {
